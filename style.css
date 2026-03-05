@@ -1,5 +1,5 @@
 body {
-    background-color: #ffe6f2;
+    background-color: #f6cde1;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: #ff66b2;
-    color: white;
+    color: rgb(245, 207, 207);
     padding: 20px;
 }
 
@@ -38,7 +38,7 @@ section {
 
 button {
     background-color: #ff66b2;
-    color: white;
+    color: rgb(245, 207, 207);
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -51,7 +51,7 @@ button:hover {
 
 footer {
     background-color: #ff66b2;
-    color: white;
+    color: rgb(245, 207, 207);
     padding: 10px;
     position: fixed;
     width: 100%;
